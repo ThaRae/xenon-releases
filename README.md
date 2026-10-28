@@ -1,7 +1,7 @@
 # xenon-releases
 
-[Xenon](https://git.avx512.dev/tharae/Xenon)'s releases for macOS, on Apple silicon with macOS 14.4 or later. Each
-[release](https://git.avx512.dev/tharae/xenon-releases/releases) has `Xenon-<version>.tar.xz`, which holds `Xenon.app`.
+[Xenon](https://github.com/ThaRae/Xenon)'s releases for macOS, on Apple silicon with macOS 14.4 or later. Each
+[release](https://github.com/ThaRae/xenon-releases/releases) has `Xenon-<version>.tar.xz`, which holds `Xenon.app`.
 
 ## Installing
 
@@ -14,8 +14,9 @@ From then on, Xenon updates itself. **Settings → Updates** says when it last c
 
 ## The appcast
 
-`appcast.xml` is the [Sparkle](https://sparkle-project.org) feed that Xenon checks for new versions. Xenon's
-`Meta/release.py publish` writes it with each release, so don't edit it by hand.
+`appcast.xml` is the [Sparkle](https://sparkle-project.org) feed that Xenon checks for new versions, at
+`https://raw.githubusercontent.com/ThaRae/xenon-releases/main/appcast.xml`. Xenon's `Meta/release.py publish` writes
+it with each release, so don't edit it by hand.
 
 The appcast and every archive are signed with Xenon's update key, whose public half is
 `o7cmjh8R2wfWfRfJOTcyLisyoRVEEQIxi7L+SFWXUNI=`, and Xenon installs nothing else. The apps are signed with Xenon's own

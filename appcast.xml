@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Xenon</title>
         <link>https://github.com/ThaRae/xenon-releases</link>
         <item>
-            <title>Xenon 0.1.0</title>
-            <link>https://github.com/ThaRae/xenon-releases/releases/tag/v0.1.0</link>
-            <pubDate>Wed, 28 Oct 2026 17:42:38 GMT</pubDate>
-            <sparkle:version>0.1.0</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>Xenon 0.1.1</title>
+            <link>https://github.com/ThaRae/xenon-releases/releases/tag/v0.1.1</link>
+            <pubDate>Thu, 29 Oct 2026 01:53:29 GMT</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ThaRae/xenon-releases/releases/download/v0.1.0/Xenon-0.1.0.tar.xz" length="57022860" type="application/octet-stream" sparkle:edSignature="OCC/DZ42pSLps0Z5tuwWQdkuNppl9PsJ/GE1u+OWDFoOfOxSxogQwPt3Fc2Jth5U2PJja2bzz6gDQXsMnHPIBA=="></enclosure>
+            <enclosure url="https://github.com/ThaRae/xenon-releases/releases/download/v0.1.1/Xenon-0.1.1.tar.xz" length="57063412" type="application/octet-stream" sparkle:edSignature="Nc3puSFU6vgtyxxgL9PDLK2NuHNlFoBXLGtE7cVhLJPS++hYRF8lVs+bY4vQpy2DyhJCEwMZr6QrXZVZyQToDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: w3zcuW3MYiE9Vs9GLnCXSTOt8e+vf9Qgg6boTPf4IDbBOEjvjb5zj5e1oD170CQWGuFdbGz0y9zbGlBfBSIpCg==
+edSignature: pnSF3TkMc8Z97CwGCPj8szhSkHKWaYYAZL0qTKl4YhcdSp4zWVpae2tFHMPFpWQr02Zad9ZE73Mu04DdLECnCQ==
 length: 1295
 -->

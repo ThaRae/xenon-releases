@@ -1,7 +1,7 @@
 # xenon-releases
 
-[Xenon](https://github.com/ThaRae/Xenon)'s releases for macOS, on Apple silicon with macOS 14.4 or later. Each
-[release](https://github.com/ThaRae/xenon-releases/releases) has `Xenon-<version>.tar.xz`, which holds `Xenon.app`.
+[Xenon](https://github.com/ThaRae/Xenon)'s releases for macOS and Linux, on Apple silicon with macOS 14.4 or later or x86 for linux. Each
+[release](https://github.com/ThaRae/xenon-releases/releases) has `Xenon-<version>.tar.xz` and `Xenon-<version>.dmg`, which holds `Xenon.app`. Linux releases are as `Xenon-<version>.appimage`
 
 ## Installing
 

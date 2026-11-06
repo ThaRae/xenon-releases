@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Xenon</title>
+        <link>https://github.com/ThaRae/xenon-releases</link>
+        <item>
+            <title>Xenon 0.1.5</title>
+            <link>https://github.com/ThaRae/xenon-releases/releases/tag/v0.1.5</link>
+            <pubDate>Fri, 06 Nov 2026 16:26:01 GMT</pubDate>
+            <sparkle:version>0.1.5</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ThaRae/xenon-releases/releases/download/v0.1.5/Xenon-0.1.5-x86_64.tar.xz" length="71503580" type="application/octet-stream" sparkle:edSignature="VLaGuXzVJ17qOJwSxu6pdUQAiOfecH/uqmRPphassVfmmrUxNPva2j+g7J8zPkOChOcjZ/8Z5pOkfHKGVZ41Bg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: KbE22wYdheKpLQiKygnn/R6C6hjOcmv5S8ZOOh/TLaPv36cv+6z+FH64qp6BM0ll/pyShXxtJ8K8NK4QNcJcDA==
+length: 1223
+-->
